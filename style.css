@@ -43,3 +43,7 @@ nav{
         width: 1200px;
     }
 }
+
+.greeting {
+    text-align: center;
+}
